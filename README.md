@@ -16,6 +16,7 @@
 
 社員ページ: https://www.kayac.com/team/hioki-koji
 
+### RC事業部
 #### まちのコイン（プラットフォーム／管理画面）
 **期間:** 2019/11 ~ 2025/09  
 **役割:** Frontend Engineer / Engineering Manager
@@ -58,20 +59,24 @@ URL: https://coin.machino.co/
 
 URL: https://smout.jp
 
-##### トナメル
+### GC事業部
+#### トナメル
 **期間:** 2018/02 ~ 2019/11  
 **役割:** Frontend Engineer  
+**技術:** Typescript, Vue.js, Stylus, GraphQL
 
 大会運営支援ツールのフロント実装を担当。
 
 - 対戦中のチャット機能実装
 - トーナメント管理機能対応
+- スイスドローの実装
 
 URL: https://tonamel.com/
 
-##### Lobi
+#### Lobi
 **期間:** 2018/02 ~ 2019/11  
-**役割:** Frontend Engineer  
+**役割:** Frontend Engineer
+**技術:** Typescript, jQuery, Vue.js, AngularJS,
 
 コミュニティサービスの保守・運用。  
 生配信・ボイスチャット機能などの開発にも関与。
@@ -94,6 +99,7 @@ URL: https://snack.machino.co/
 **期間:** 2025/09 ~ 2026/02  
 **役割:** 育児休暇取得
 
+---
 ### 株式会社エーピーコミュニケーションズ (2012/04 ~ 2017/12)
 
 - <b>IIJmio</b>
